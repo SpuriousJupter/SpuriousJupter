@@ -1,4 +1,9 @@
 
+  
+{
+     console.log(id.value)
+
+}
     { 
 
   var num = id;
@@ -46,11 +51,11 @@ descricao="Tênis Sneaker Patrizia 5056, em camurça sintético com furos que fa
 estoque="120";
      ];
      
-     console.log(id.modelo.valor.marca.descricao.estoque);
+  
 
 
 
-;
+
 
 
 
@@ -59,4 +64,5 @@ estoque="120";
 
 
     }	
+
 
